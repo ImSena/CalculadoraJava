@@ -42,5 +42,8 @@ javac TelaCalculadora.java
 ## Contribuição
 Este projeto foi desenvolvido de forma independente por [Bruno Sena]. Não houve contribuições externas. Se você deseja contribuir para o projeto, sinta-se à vontade para criar um fork do repositório e fazer melhorias por conta própria.
 
+## Licença
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
+
 ## Contato
 Se você tiver alguma dúvida ou problema relacionado a este projeto, sinta-se à vontade para entrar em contato comigo em <BrunoSena14@Outlook.com>
