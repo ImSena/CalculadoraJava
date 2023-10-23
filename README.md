@@ -39,8 +39,8 @@ javac TelaCalculadora.java
    3. Clique em algum outro número novamente;
    4. Clique na mesma operação ou clique no botão de igual para obter o resultado;
 
-##Contribuição
+## Contribuição
 Este projeto foi desenvolvido de forma independente por [Bruno Sena]. Não houve contribuições externas. Se você deseja contribuir para o projeto, sinta-se à vontade para criar um fork do repositório e fazer melhorias por conta própria.
 
-##Contato
+## Contato
 Se você tiver alguma dúvida ou problema relacionado a este projeto, sinta-se à vontade para entrar em contato comigo em <BrunoSena14@Outlook.com>
