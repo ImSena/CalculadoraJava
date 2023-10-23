@@ -1,4 +1,4 @@
-# README do Projeto Calculadora em Java
+#Calculadora em Java
 
 ## Descrição
 Este projeto consiste em uma calculadora simples em Java que realiza operações matemáticas básicas, como adição, subtração, multiplicação e divisão com números racionais e inteiros.
